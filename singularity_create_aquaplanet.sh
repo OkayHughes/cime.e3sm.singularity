@@ -73,7 +73,7 @@ readonly RUN_REFDATE="1001-01-01"   # same as MODEL_START_DATE for 'branch', can
 #readonly CASE_ROOT="/global/cscratch1/sd/${USER}/E3SMv2/${CASE_NAME}"
 
 fail() {
-  echo "ctrl-f for 'fail' in order to find code to change!'
+  echo "ctrl-f for 'fail' in order to find code to change!"
   exit 1
 }
 
