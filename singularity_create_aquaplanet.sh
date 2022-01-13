@@ -1,15 +1,4 @@
----
-date: 2021-09-01
-tags:
-  - posts
-  - misc
-eleventyNavigation:
-  key: singularity_run_e3sm.sh
-  parent: Singularity Container
-layout: layouts/post.njk
----
 
-```
 #!/bin/bash -fe
 
 # E3SM Water Cycle v2 run_e3sm script template.
@@ -541,7 +530,7 @@ popd() {
 # Now, actually run the script
 #-----------------------------------------------------
 main
-```
+
 
 
 
